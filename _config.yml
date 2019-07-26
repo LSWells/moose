@@ -2,7 +2,7 @@ title: Moose
 description: Multiphysics Object Oriented Simulation Environment
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-slate
+theme: jekyll-theme-time-machine
 
 gems:
   - jekyll-mentions
